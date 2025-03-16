@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#appContainer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#local {
+    padding: 4em;
+}
+
+#status {
+    padding: 4em;
+    display: flex;
+}
